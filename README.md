@@ -23,10 +23,10 @@ Enter these values in the prompted order:
 Thickness:              1.30
 Width:                  1.30
 Heights:                2.50, 2.30, 2.10
-Loading-plate area:      27
+Loading-plate area:     27
 Start displacement:     0
-End displacement:       0.500
-Displacement increment: 0.100
+End displacement:       0.50
+Displacement increment: 0.10
 ```
 
 At **0.500 mm**, the predicted total force is **17.727838 mN** and nominal pressure is **0.656587 kPa**, matching the worked example in Section S3.3 of the Supporting Information.
